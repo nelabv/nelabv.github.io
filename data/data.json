@@ -11,28 +11,54 @@
 			"name": "Crocodile Encounter",
 			"description": "Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.",
 			"price": 999,
-			"img_url": "https://images.pexels.com/photos/4168337/pexels-photo-4168337.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+			"img_url": "https://images.pexels.com/photos/4168337/pexels-photo-4168337.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+
+			"quantity": 0
 		},
 		{
 			"id": "peng-bonding",
 			"name": "Penguin Bonding",
 			"description": "Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.",
 			"price": 999,
-			"img_url": "https://images.pexels.com/photos/5745356/pexels-photo-5745356.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+			"img_url": "https://images.pexels.com/photos/5745356/pexels-photo-5745356.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+
+			"quantity": 0
 		},
 		{
 			"id": "shark-dive",
 			"name": "Shark Dive",
 			"description": "Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.",
 			"price": 999,
-			"img_url": "https://images.pexels.com/photos/7334926/pexels-photo-7334926.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+			"img_url": "https://images.pexels.com/photos/7334926/pexels-photo-7334926.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+
+			"quantity": 0			
 		},
 		{
 			"id": "snorkeling",
 			"name": "Snorkeling",
 			"description": "Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.",
 			"price": 999,
-			"img_url": "https://images.pexels.com/photos/2744596/pexels-photo-2744596.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+			"img_url": "https://images.pexels.com/photos/2744596/pexels-photo-2744596.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+
+			"quantity": 0
+		},
+		{
+			"id": "otter-encounter",
+			"name": "Otter Encounter",
+			"description": "Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.",
+			"price": 999,
+			"img_url": "https://images.pexels.com/photos/4754846/pexels-photo-4754846.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+
+			"quantity": 0
+		},
+		{
+			"id": "scuba-diving",
+			"name": "Scuba Diving",
+			"description": "Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.",
+			"price": 999,
+			"img_url": "https://images.pexels.com/photos/1540108/pexels-photo-1540108.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+
+			"quantity": 0
 		}
 	]
 }
